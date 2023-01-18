@@ -24,3 +24,12 @@
   - React Sight [Link](https://github.com/React-Sight/React-Sight)
   - Redux [Link](https://redux.js.org/)
   - Storybook [Link](https://storybook.js.org/)
+
+- #### Extensions for editors/IDEs
+  - VSCode
+    - ES7+ React/Redux/React-Native snippets [install](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+    - JS JSX Snippets [install](https://marketplace.visualstudio.com/items?itemName=skyran.js-jsx-snippets)
+    - Reactjs code snippets [install](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+    - VSCode React Refactor [install](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
+    - ESLint [install](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+    - Prettier - Code formatter [install](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
