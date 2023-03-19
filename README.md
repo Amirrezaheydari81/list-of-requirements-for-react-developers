@@ -37,6 +37,7 @@
     - Prettier - Code formatter [install](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 - #### Libraries
+
   - React virtuoso [Link](https://openbase.com/js/react-virtuoso)
   - React virtualized [Link](https://openbase.com/js/react-virtualized)
   - React window [Link](https://openbase.com/js/react-window)
@@ -57,3 +58,15 @@
   - Kendo react listview [Link](https://openbase.com/js/@progress/kendo-react-listview)
   - Kendo react listbox [Link](https://openbase.com/js/@progress/kendo-react-listbox)
   - React draggable lis [Link](https://openbase.com/js/react-draggable-list)
+
+- #### Ui (Tailwind CSS)
+
+  - Hyperui [Link](https://www.hyperui.dev/)
+  - Preline [Link](https://preline.co/)
+  - Flowrift [Link](https://flowrift.com/c/banner)
+
+- #### Animations
+
+  - Cliply [Link](https://cliply.co/clips/)
+  - Cssfx [Link](https://cssfx.netlify.app/)
+  - Icons8Animated [Link](https://icons8.com/animated-icons)
